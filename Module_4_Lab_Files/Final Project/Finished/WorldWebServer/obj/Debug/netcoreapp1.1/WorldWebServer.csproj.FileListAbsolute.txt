@@ -6,3 +6,13 @@ C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\bin\Debug\netcore
 C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfo.cs
 C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.dll
 C:\Source\edX\Course 001\Labs\015\Final Project\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\bin\Debug\netcoreapp1.1\WorldWebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Final Project\Finished\WorldWebServer\obj\Debug\netcoreapp1.1\WorldWebServer.pdb

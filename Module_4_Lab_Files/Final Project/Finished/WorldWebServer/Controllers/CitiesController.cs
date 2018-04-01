@@ -10,7 +10,7 @@ namespace WorldWebServer.Controllers {
         private WorldDbContext dbContext;
 
         public CitiesController() {
-            var connString = "server=localhost;port=3306;database=world;userid=root;pwd=123456;sslmode=none";
+            var connString = "server=localhost;port=3306;database=world;userid=root;pwd=c0ntr0lfr33k;sslmode=none";
             this.dbContext = WorldDbContextFactory.Create(connString);
         }
 

@@ -1,0 +1,16 @@
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.csproj.CopyComplete
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.pdb

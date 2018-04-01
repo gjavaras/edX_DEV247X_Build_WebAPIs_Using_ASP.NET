@@ -7,7 +7,7 @@ namespace WebServer.Controllers {
     [Route("api/[controller]")] //[Route("api/inventories")]
     public class ProductsController : Controller {
 
-        [HttpGet] //[HttpGet("all")] //[HttpGet, Route("all")]
+        [HttpGet("all")] //[HttpGet("all")] //[HttpGet, Route("all")]
         public Product[] Get() {
             return FakeData.Products.Values.ToArray();
         }
@@ -20,12 +20,12 @@ namespace WebServer.Controllers {
                 return null;
         }
 
-        // [HttpGet("from/{low}/to/{high}")]
-        // public Product[] Get(int low, int high) {
-        //     var products = FakeData.Products.Values
-        //     .Where(p => p.Price >= low && p.Price <= high).ToArray();
-        //     return products;
-        // }
+        [HttpGet("from/{low}/to/{high}")]
+        public Product[] Get(int low, int high) {
+            var products = FakeData.Products.Values
+            .Where(p => p.Price >= low && p.Price <= high).ToArray();
+            return products;
+        }
 
         [HttpPost]
         public Product Post([FromBody]Product product) {

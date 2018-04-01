@@ -1,0 +1,18 @@
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Source\edX\Course 001\Labs\001\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb

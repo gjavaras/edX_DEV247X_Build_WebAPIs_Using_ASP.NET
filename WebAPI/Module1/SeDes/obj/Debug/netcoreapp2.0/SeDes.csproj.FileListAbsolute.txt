@@ -1,0 +1,10 @@
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.0\SeDes.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.0\SeDes.pdb

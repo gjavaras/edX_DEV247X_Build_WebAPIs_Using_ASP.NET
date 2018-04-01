@@ -6,3 +6,13 @@ C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebSer
 C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.AssemblyInfo.cs
 C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.dll
 C:\Source\edX\Course 001\Labs\012\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\bin\Debug\netcoreapp1.1\SakilaWebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Web API and Entity Framework Core\SakilaWebServer\obj\Debug\netcoreapp1.1\SakilaWebServer.pdb

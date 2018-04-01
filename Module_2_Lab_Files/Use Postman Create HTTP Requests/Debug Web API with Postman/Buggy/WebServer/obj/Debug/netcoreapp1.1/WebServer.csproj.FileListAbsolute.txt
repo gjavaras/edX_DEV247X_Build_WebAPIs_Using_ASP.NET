@@ -38,3 +38,13 @@ C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\bin
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
 C:\Source\edX\Course 001\Labs\005\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+C:\Users\George\Documents\GITREPOSITORY\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
